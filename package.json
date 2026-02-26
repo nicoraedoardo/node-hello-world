@@ -7,9 +7,6 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "nodemon": "^3.1.14"
+    "start": "node --watch server.js"
   }
 }

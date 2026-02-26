@@ -1,1 +1,3 @@
-console.log("Hello Boolean");
+console.log("Hello Booleal!");
+
+console.log(process.argv);
